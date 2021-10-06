@@ -1,23 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from './Components/NavBar/Navbar';
+import { Portfolio } from './Components/Portfolio/Portfolio';
+import {About} from "./Components/About/About"
+import { Projects } from './Components/Projects/Projects';
+import { Blogs } from './Components/Blogs/Blogs';
+import { Contact } from './Components/Contact/Contact';
+import {Scrollbar} from 'smooth-scrollbar-react';
+import { Skills } from './Components/Skills/Skills';
+// import styles from "../src/Components/BottomBanner/Banner.module.css"
+// import { Banner } from './Components/BottomBanner/Banner';
+import { DrawerNav } from './Components/NavBar/DrawerNav';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Scrollbar renderByPixels={true}>
+        <Portfolio />
+        <About />
+        <Skills />
+        <Projects />
+        <Blogs />
+        <Contact />
+      </Scrollbar>
+      <DrawerNav />
+      <Navbar />
+      {/* <Banner /> */}
     </div>
   );
 }
