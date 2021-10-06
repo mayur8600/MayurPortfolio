@@ -73,6 +73,7 @@
         height: 5vh;
         margin: auto;
         margin-top: 2%;
+        margin-bottom: 80px;
     }
     .name>h2{
         color: white;
@@ -110,6 +111,7 @@
         height: 5vh;
         margin: auto;
         margin-top: 2%;
+        margin-bottom: 80px;
     }
     .typebox{
         width: 80%;
