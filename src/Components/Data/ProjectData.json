@@ -38,7 +38,7 @@
         "name": "Udemy (clone)",
         "desc": "A web application to provide online courses. Choose from 155,000 online video courses with new additions published every month at a minimal cost.",
         "github": "https://github.com/omkarvgavade/Project-Udemy",
-        "link": "",
+        "link": "https://udemy-clone-masai.netlify.app/",
         "tech":[
             "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
         ]
