@@ -35,14 +35,14 @@
 .blogCard{
     width: 20%;
     height: 350px;
-    border: 1px solid white;
+    border: 0.5px solid gray;
     margin: auto;
     margin-top: 4%;
     cursor: pointer;
     border-radius: 3%;
     background: white;
-    box-shadow:  18px 18px 19px #b5b8b9,
-                -18px -18px 19px #ffffff;
+    /* box-shadow:  18px 18px 19px #b5b8b9,
+                -18px -18px 19px #ffffff; */
 }
 
 .blogImg, .blogTitle{
