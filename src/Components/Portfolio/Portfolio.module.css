@@ -15,8 +15,8 @@
 }
 
 .badge{
-    width: 15%;
-    height: 30%;
+    width: 20%;
+    height: 40%;
     margin: auto;
     margin-top: 7%;
     border: 2px solid white;
@@ -130,7 +130,7 @@
 
 @media only screen and (min-width: 700px) and (max-width: 1024px){
     .badge{
-        width: 22%;
+        width: 30%;
         height: 25%;
         margin: auto;
         margin-top: 10%;
@@ -154,10 +154,10 @@
 
 @media only screen and (min-width: 1024px) and (max-width: 2560px){
     .badge{
-        width: 16%;
-        height: 30%;
+        width: 20%;
+        height: 250px;
         margin: auto;
-        margin-top: 6%;
+        margin-top: 4%;
         border: 2px solid white;
         border-radius: 50%;
     }
