@@ -11,23 +11,12 @@
         ]
     },
     {
-        "id": 2,
-        "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1630221270750/49_Phdpho.png?auto=compress,format&format=webp",
-        "name": "Dunzo 2.O (clone)",
-        "desc": "Extension of the previous Dunzo project to create an upgraded model of the web application to serve online delivery at minimal cost and time.        ",
-        "github": "https://github.com/mayur8600/DunzoBackend",
-        "link": "",
-        "tech":[
-            "https://github.com/mayur8600/MayurPortfolio/blob/master/src/Components/Images/stack.png?raw=true"
-        ]
-    },
-    {
         "id": 3,
         "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1630223585464/szgdtq8or.png?auto=compress,format&format=webp",
-        "name": "Dunzo 1.O (clone)",
+        "name": "Dunzo(clone)",
         "desc": "A web application to serve online delivery at minimal cost and time.",
         "github": "https://github.com/mayur8600/Dunzo",
-        "link": "",
+        "link": "https://mrrupendra.github.io/Dunzo_Clone/",
         "tech":[
             "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
         ]
